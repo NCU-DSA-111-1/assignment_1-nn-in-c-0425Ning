@@ -9,6 +9,7 @@ gcc -o main main.c layer.c neuron.c
 ./main
 ```
 source from: https://medium.com/analytics-vidhya/building-neural-network-framework-in-c-using-backpropagation-8ad589a0752d
+
 <br />
 Enter the number of Layers in Neural Network: 4 <br />
 Enter number of neurons in layer[1]:  2 <br />
